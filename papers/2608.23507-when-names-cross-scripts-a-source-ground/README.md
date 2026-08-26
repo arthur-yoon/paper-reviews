@@ -1,7 +1,5 @@
 # When Names Cross Scripts: A Source-Grounded Benchmark for Historical Entity Reconciliation in the Mongol World
 
-# When Names Cross Scripts: A Source-Grounded Benchmark for Historical Entity Reconciliation in the Mongol World
-
 ## 핵심 아이디어 한 줄 요약
 역사적 인물 식별은 단순한 문자열 일치나 음역(발음 전사) 문제가 아니며, 각 증거가 어디에서 나왔는지(출처/Provenance)를 통제하여 명칭과 역사적 맥락이 어떻게 결합되어야 하는지 평가하는 벤치마크(MHER)를 구축했다.
 

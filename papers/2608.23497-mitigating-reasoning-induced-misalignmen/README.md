@@ -1,7 +1,5 @@
 # Mitigating Reasoning-Induced Misalignment via Safety-Direction Penalty
 
-# Mitigating Reasoning-Induced Misalignment via Safety-Direction Penalty
-
 ## 핵심 아이디어 한 줄 요약
 추론 능력과 안전성 표상이 표현 공간에서 서로 얽혀 있다는 점을 이용해, 추론 파인튜닝 과정에서 안전 방향 벡터로의 이동을 명시적으로 페널티화함으로써 추론 성능은 유지하고 안전성 저하만 억제한다.
 

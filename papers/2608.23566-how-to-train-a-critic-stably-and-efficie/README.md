@@ -1,7 +1,5 @@
 # How to Train a Critic Stably and Efficiently
 
-# How to Train a Critic Stably and Efficiently
-
 ## 핵심 아이디어 한 줄 요약
 그룹 기반 강화학습(GRPO 등)에서 여러 응답을 샘플링해 상대적 우위를 계산하는 대신, 단일 응답에서 토큰별 우위를 추정하는 크리틱 모델을 안정적으로 학습시키는 'BPCO(Best-Practice Critic Optimization)' 레시피를 제시한다.
 
