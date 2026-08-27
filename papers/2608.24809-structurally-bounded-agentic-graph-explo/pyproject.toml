@@ -1,0 +1,18 @@
+[project]
+name = "2608-24809-structurally-bounded-agentic-graph-explo"
+version = "0.1.0"
+description = "Simplified reference implementation of: Structurally-bounded Agentic Graph Exploration for Evidence-Grounded Scholarly DeepSearch"
+requires-python = ">=3.11"
+dependencies = [
+    "numpy>=1.26",
+    "matplotlib>=3.8",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.0",
+    "nbformat>=5.10",
+    "nbclient>=0.10",
+    "jupyter>=1.0",
+    "ipykernel>=6.29",
+]

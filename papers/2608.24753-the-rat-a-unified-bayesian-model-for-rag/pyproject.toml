@@ -1,0 +1,18 @@
+[project]
+name = "2608-24753-the-rat-a-unified-bayesian-model-for-rag"
+version = "0.1.0"
+description = "Simplified reference implementation of: The RAT: A Unified Bayesian Model for RAG Evaluation"
+requires-python = ">=3.11"
+dependencies = [
+    "numpy>=1.26",
+    "matplotlib>=3.8",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.0",
+    "nbformat>=5.10",
+    "nbclient>=0.10",
+    "jupyter>=1.0",
+    "ipykernel>=6.29",
+]
