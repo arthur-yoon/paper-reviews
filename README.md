@@ -28,7 +28,7 @@ papers/
     demo.ipynb   # (있는 경우) 결과 시각화 노트북
 ```
 
-현재 13건.
+현재 15건.
 
 ## 전체 목록
 
@@ -38,6 +38,8 @@ papers/
 | [Mitigating Reasoning-Induced Misalignment via Safety-Direction Penalty](papers/2608.23497-mitigating-reasoning-induced-misalignmen/) | - | - | - | - |
 | [When Names Cross Scripts: A Source-Grounded Benchmark for Historical Entity Reconciliation in the Mongol World](papers/2608.23507-when-names-cross-scripts-a-source-ground/) | - | - | - | - |
 | [How to Train a Critic Stably and Efficiently](papers/2608.23566-how-to-train-a-critic-stably-and-efficie/) | - | - | - | - |
+| [Method, Mind, and Morality: How People Make Sense of Artificial Intelligence](papers/2608.24748-method-mind-and-morality-how-people-make/) | - | ✅ | ✅ | - |
+| [The RAT: A Unified Bayesian Model for RAG Evaluation](papers/2608.24753-the-rat-a-unified-bayesian-model-for-rag/) | - | ✅ | ✅ | ✅ |
 | [A Geometric Theory of Robust Fairness Audits](papers/2608.24818-a-geometric-theory-of-robust-fairness-au/) | - | ✅ | ✅ | ✅ |
 | [Constrained Entity Selection under Partial Knowledge for LLM-Based Knowledge Graph QA](papers/2608.24824-constrained-entity-selection-under-parti/) | - | - | - | - |
 | [A Dual-Dimensional LLM Framework for Automated Item Incidental Content Similarity Analysis in Large-Scale Assessments](papers/2608.24825-a-dual-dimensional-llm-framework-for-aut/) | - | - | - | - |
@@ -56,6 +58,8 @@ papers/
 - [Mitigating Reasoning-Induced Misalignment via Safety-Direction Penalty](papers/2608.23497-mitigating-reasoning-induced-misalignmen/)
 - [When Names Cross Scripts: A Source-Grounded Benchmark for Historical Entity Reconciliation in the Mongol World](papers/2608.23507-when-names-cross-scripts-a-source-ground/)
 - [How to Train a Critic Stably and Efficiently](papers/2608.23566-how-to-train-a-critic-stably-and-efficie/)
+- [Method, Mind, and Morality: How People Make Sense of Artificial Intelligence](papers/2608.24748-method-mind-and-morality-how-people-make/)
+- [The RAT: A Unified Bayesian Model for RAG Evaluation](papers/2608.24753-the-rat-a-unified-bayesian-model-for-rag/)
 - [A Geometric Theory of Robust Fairness Audits](papers/2608.24818-a-geometric-theory-of-robust-fairness-au/)
 - [Constrained Entity Selection under Partial Knowledge for LLM-Based Knowledge Graph QA](papers/2608.24824-constrained-entity-selection-under-parti/)
 - [A Dual-Dimensional LLM Framework for Automated Item Incidental Content Similarity Analysis in Large-Scale Assessments](papers/2608.24825-a-dual-dimensional-llm-framework-for-aut/)
