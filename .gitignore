@@ -1,0 +1,8 @@
+# 논문별 uv 프로젝트가 만드는 것들 — 실제 실행 환경은 uv.lock으로 재현 가능하므로
+# .venv 자체는 커밋하지 않는다.
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+.mypy_cache/
