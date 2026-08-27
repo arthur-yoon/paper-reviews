@@ -13,7 +13,7 @@ AI/ML 논문 리뷰와, 논문의 핵심 아이디어를 실제로 검증 가능
 cd papers/<논문 폴더>
 uv sync                 # 의존성 설치
 uv run pytest -q        # 테스트 실행
-uv run jupyter notebook notebooks/demo.ipynb   # (있는 경우) 결과 시각화
+uv run jupyter notebook demo.ipynb   # (있는 경우) 결과 시각화
 ```
 
 ## 구조
@@ -25,10 +25,10 @@ papers/
     README.md              # 원본 논문 링크 + 상세 리뷰 + 논문<->코드 매핑
     implementation.py      # 구현 (로깅, 타입힌트, docstring 포함)
     test_implementation.py # 실행 검증된 테스트
-    notebooks/demo.ipynb   # (있는 경우) 결과 시각화 노트북
+    demo.ipynb   # (있는 경우) 결과 시각화 노트북
 ```
 
-현재 12건.
+현재 13건.
 
 ## 전체 목록
 
@@ -38,6 +38,7 @@ papers/
 | [Mitigating Reasoning-Induced Misalignment via Safety-Direction Penalty](papers/2608.23497-mitigating-reasoning-induced-misalignmen/) | - | - | - | - |
 | [When Names Cross Scripts: A Source-Grounded Benchmark for Historical Entity Reconciliation in the Mongol World](papers/2608.23507-when-names-cross-scripts-a-source-ground/) | - | - | - | - |
 | [How to Train a Critic Stably and Efficiently](papers/2608.23566-how-to-train-a-critic-stably-and-efficie/) | - | - | - | - |
+| [A Geometric Theory of Robust Fairness Audits](papers/2608.24818-a-geometric-theory-of-robust-fairness-au/) | - | ✅ | ✅ | ✅ |
 | [Constrained Entity Selection under Partial Knowledge for LLM-Based Knowledge Graph QA](papers/2608.24824-constrained-entity-selection-under-parti/) | - | - | - | - |
 | [A Dual-Dimensional LLM Framework for Automated Item Incidental Content Similarity Analysis in Large-Scale Assessments](papers/2608.24825-a-dual-dimensional-llm-framework-for-aut/) | - | - | - | - |
 | [Reading Is Not Using: Retrieval, Judgment, and the Design of AI Financial Research Workflows](papers/2608.24842-reading-is-not-using-retrieval-judgment/) | - | - | - | - |
@@ -55,6 +56,7 @@ papers/
 - [Mitigating Reasoning-Induced Misalignment via Safety-Direction Penalty](papers/2608.23497-mitigating-reasoning-induced-misalignmen/)
 - [When Names Cross Scripts: A Source-Grounded Benchmark for Historical Entity Reconciliation in the Mongol World](papers/2608.23507-when-names-cross-scripts-a-source-ground/)
 - [How to Train a Critic Stably and Efficiently](papers/2608.23566-how-to-train-a-critic-stably-and-efficie/)
+- [A Geometric Theory of Robust Fairness Audits](papers/2608.24818-a-geometric-theory-of-robust-fairness-au/)
 - [Constrained Entity Selection under Partial Knowledge for LLM-Based Knowledge Graph QA](papers/2608.24824-constrained-entity-selection-under-parti/)
 - [A Dual-Dimensional LLM Framework for Automated Item Incidental Content Similarity Analysis in Large-Scale Assessments](papers/2608.24825-a-dual-dimensional-llm-framework-for-aut/)
 - [Reading Is Not Using: Retrieval, Judgment, and the Design of AI Financial Research Workflows](papers/2608.24842-reading-is-not-using-retrieval-judgment/)
